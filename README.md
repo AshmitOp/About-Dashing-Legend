@@ -11,6 +11,9 @@
 <ul type= "Disc">
 <li> Coding </li><br>
 <li> Web Development </li><br>
-</li> Gaming </li>
+</li> Gaming </li><br>
+</li> Making Bots </li><br>
+<li> Making Logos </li>
+</ul>
 
 
