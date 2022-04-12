@@ -13,7 +13,7 @@
 <li> Web Development </li><br>
 </li> Gaming </li><br>
 </li> Making Bots </li><br>
-<li> Making Logos </li>
+<li> Making Logos </li><br>
 </ul>
 
 
