@@ -12,8 +12,8 @@
 <ol type= "1">
 <li> Coding </li><br>
 <li> Web Development </li><br>
-</li> Gaming </li><br><br>
-</li> Making Bots </li><br><br>
+</li> 3. Gaming </li><br><br>
+</li> 4. Making Bots </li><br><br>
 <li> Making Logos </li><br>
 </ol>
 
